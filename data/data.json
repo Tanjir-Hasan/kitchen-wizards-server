@@ -1,7 +1,7 @@
 [
     {
         "chef_id": "ch001",
-        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_picture": "https://i.ibb.co/FJSkg26/melissa.jpg",
         "chef_name": "Melissa Leong",
         "years_of_experience": 15,
         "number_of_recipes": 50,
@@ -48,7 +48,7 @@
     },
     {
         "chef_id": "ch002",
-        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_picture": "https://i.ibb.co/MBDVb4t/dan.jpg",
         "chef_name": "Dan Hunter",
         "years_of_experience": 20,
         "number_of_recipes": 150,
@@ -95,7 +95,7 @@
     },
     {
         "chef_id": "ch003",
-        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_picture": "https://i.ibb.co/Kz1LF7b/emma.jpg",
         "chef_name": "Emma Dean",
         "years_of_experience": 10,
         "number_of_recipes": 80,
@@ -135,7 +135,7 @@
     },
     {
         "chef_id": "ch004",
-        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_picture": "https://i.ibb.co/JHn9MFp/curtis-maude.jpg",
         "chef_name": "Curtis Stone",
         "years_of_experience": 25,
         "number_of_recipes": 150,
@@ -170,7 +170,7 @@
     },
     {
         "chef_id": "ch005",
-        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_picture": "https://i.ibb.co/wSLgdrf/maggie.jpg",
         "chef_name": "Maggie Beer",
         "years_of_experience": 40,
         "number_of_recipes": 350,
@@ -205,7 +205,7 @@
     },
     {
         "chef_id": "ch006",
-        "chef_picture": "https://example.com/melissa-leong.jpg",
+        "chef_picture": "https://i.ibb.co/m8T0pfb/Peter-Gilmore.jpg",
         "chef_name": "Peter Gilmore",
         "years_of_experience": 30,
         "number_of_recipes": 150,
