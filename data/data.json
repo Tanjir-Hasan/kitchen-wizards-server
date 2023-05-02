@@ -1,7 +1,7 @@
 [
     {
         "chef_id": "ch001",
-        "chef_picture": "https://i.ibb.co/FJSkg26/melissa.jpg",
+        "chef_picture": "https://i.ibb.co/G5fStsV/melissa.jpg",
         "chef_name": "Melissa Leong",
         "years_of_experience": 15,
         "number_of_recipes": 50,
@@ -11,13 +11,7 @@
             {
                 "recipe_id": "ch001_r001",
                 "recipe_name": "Miso Chicken",
-                "ingredients": [
-                    "2 chicken thighs",
-                    "2 tablespoons miso paste",
-                    "1 tablespoon soy sauce",
-                    "1 tablespoon honey",
-                    "1 tablespoon sesame oil"
-                ],
+                "ingredients": ["2 chicken thighs", "2 tablespoons miso paste", "1 tablespoon soy sauce", "1 tablespoon honey", "1 tablespoon sesame oil"],
                 "cooking_method": "Preheat the oven to 375°F (190°C). Mix together the miso paste, soy sauce, honey, and sesame oil in a bowl. Place the chicken thighs in a baking dish and spoon the miso mixture over them. Bake in the oven for 30-35 minutes, or until the chicken is cooked through. Serve hot."
             },
             {
@@ -48,7 +42,7 @@
     },
     {
         "chef_id": "ch002",
-        "chef_picture": "https://i.ibb.co/MBDVb4t/dan.jpg",
+        "chef_picture": "https://i.ibb.co/Hh2JBy6/dan.jpg",
         "chef_name": "Dan Hunter",
         "years_of_experience": 20,
         "number_of_recipes": 150,
@@ -95,7 +89,7 @@
     },
     {
         "chef_id": "ch003",
-        "chef_picture": "https://i.ibb.co/Kz1LF7b/emma.jpg",
+        "chef_picture": "https://i.ibb.co/f4DDmB9/emma.jpg",
         "chef_name": "Emma Dean",
         "years_of_experience": 10,
         "number_of_recipes": 80,
@@ -135,7 +129,7 @@
     },
     {
         "chef_id": "ch004",
-        "chef_picture": "https://i.ibb.co/JHn9MFp/curtis-maude.jpg",
+        "chef_picture": "https://i.ibb.co/9HGR8vC/curtis-maude.jpg",
         "chef_name": "Curtis Stone",
         "years_of_experience": 25,
         "number_of_recipes": 150,
@@ -170,7 +164,7 @@
     },
     {
         "chef_id": "ch005",
-        "chef_picture": "https://i.ibb.co/wSLgdrf/maggie.jpg",
+        "chef_picture": "https://i.ibb.co/BnLt100/maggie.jpg",
         "chef_name": "Maggie Beer",
         "years_of_experience": 40,
         "number_of_recipes": 350,
@@ -205,7 +199,7 @@
     },
     {
         "chef_id": "ch006",
-        "chef_picture": "https://i.ibb.co/m8T0pfb/Peter-Gilmore.jpg",
+        "chef_picture": "https://i.ibb.co/jR8r7MQ/Peter-Gilmore.jpg",
         "chef_name": "Peter Gilmore",
         "years_of_experience": 30,
         "number_of_recipes": 150,
