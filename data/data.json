@@ -201,7 +201,7 @@
                 "rating": "4.5",
                 "recipe_name": "Roast chicken with verjuice and rosemary",
                 "ingredients": [
-                    "1 whole chicken", "1/2 cup verjuice", "2 sprigs of fresh rosemary", "2 cloves of garlic", "2 tbsp olive oil", "salt and pepper"
+                    "1 whole chicken", "1/2 cup verjuice", "2 sprigs of fresh rosemary", "2 cloves of garlic", "2 tbsp olive oil"
                 ],
                 "cooking_method": "Preheat oven to 375°F. Rinse the chicken and pat dry with paper towels. Cut the garlic cloves in half and stuff inside the chicken cavity with the rosemary sprigs. Truss the chicken and place in a roasting pan. Drizzle olive oil and verjuice over the chicken and season with salt and pepper. Roast for 1 hour and 15 minutes, until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving."
             },
@@ -211,7 +211,7 @@
                 "rating": "5",
                 "recipe_name": "Summer fruit pudding",
                 "ingredients": [
-                    "1 lb mixed summer berries (raspberries, strawberries, blackberries, blueberries)", "1/2 cup sugar", "8-10 slices of white bread", "1/2 cup cream"
+                    "1 lb mixed summer berries (raspberries, strawberries, blackberries, blueberries)", "1/2 cup sugar", "8-10 slices of white bread", "1/2 cup cream", "8 sage leaves"
                 ],
                 "cooking_method": "In a large saucepan, heat the berries and sugar over medium heat, stirring occasionally, until the sugar has dissolved and the berries have released their juices. Cut the crusts off the bread slices and line the bottom and sides of a 2-quart pudding basin with them, slightly overlapping the slices. Pour the berry mixture into the bread-lined basin and cover the top with more bread slices. Place a small plate on top of the bread and weigh down with a heavy can or jar. Refrigerate overnight. To serve, remove the weight and plate, and invert the pudding onto a serving platter. Serve with cream."
             },
