@@ -6,11 +6,12 @@
         "years_of_experience": 15,
         "number_of_recipes": 50,
         "short_bio": "Melissa Leong is a food and travel writer, radio broadcaster, television presenter, and cookbook editor. She is a regular judge on MasterChef Australia.",
-        "likes": 10000,
+        "likes": 848,
         "recipes": [
             {
                 "recipe_id": "ch001_r001",
                 "img1" : "https://i.ibb.co/37qzLZX/1-1.jpg",
+                "rating": "4",
                 "recipe_name": "Miso Chicken",
                 "ingredients": ["2 chicken thighs", "2 tablespoons miso paste", "1 tablespoon soy sauce", "1 tablespoon honey", "1 tablespoon sesame oil"],
                 "cooking_method": "Preheat the oven to 375°F (190°C). Mix together the miso paste, soy sauce, honey, and sesame oil in a bowl. Place the chicken thighs in a baking dish and spoon the miso mixture over them. Bake in the oven for 30-35 minutes, or until the chicken is cooked through. Serve hot."
@@ -18,6 +19,7 @@
             {
                 "recipe_id": "ch001_r002",
                 "img2" : "https://i.ibb.co/CtPnZXq/1-2.webp",
+                "rating": "5",
                 "recipe_name": "Chilli Crab Linguine",
                 "ingredients": [
                     "200g linguine",
@@ -31,6 +33,7 @@
             {
                 "recipe_id": "ch001_r003",
                 "img3" : "https://i.ibb.co/Xzg8BC7/1-3.jpg",
+                "rating": "4.5",
                 "recipe_name": "Salt and Pepper Squid",
                 "ingredients": [
                     "500g squid, cleaned and sliced into rings",
@@ -50,11 +53,12 @@
         "years_of_experience": 20,
         "number_of_recipes": 150,
         "short_bio": "Dan Hunter is the executive chef and owner of Brae, a restaurant in Birregurra, Victoria, Australia. He has worked at some of the world's best restaurants, including Mugaritz in Spain and The Fat Duck in the UK. At Brae, he focuses on using local, seasonal ingredients to create dishes that are both elegant and simple.",
-        "likes": 15000,
+        "likes": 812,
         "recipes": [
             {
                 "recipe_id": "ch002_r001",
                 "img1" : "https://i.ibb.co/CJx3QfB/2-3.jpg",
+                "rating": "4",
                 "recipe_name": "Roasted chicken with root vegetables",
                 "ingredients": [
                     "1 whole chicken",
@@ -68,6 +72,7 @@
             {
                 "recipe_id": "ch002_r002",
                 "img2" : "https://i.ibb.co/jvFxDQ4/2-1.webp",
+                "rating": "4.5",
                 "recipe_name": "Risotto with mushrooms and thyme",
                 "ingredients": [
                     "1 cup Arborio rice",
@@ -81,6 +86,7 @@
             {
                 "recipe_id": "ch002_r003",
                 "img3" : "https://i.ibb.co/R4qTcNx/2-2.jpg",
+                "rating": "4.5",
                 "recipe_name": "Slow-cooked beef short ribs",
                 "ingredients": [
                     "2 lbs beef short ribs",
@@ -100,11 +106,12 @@
         "years_of_experience": 10,
         "number_of_recipes": 80,
         "short_bio": "Emma Dean is an Australian chef, cookbook author, and television presenter. She won the fifth season of MasterChef Australia in 2013 and has since released her own cookbook. Emma is passionate about using fresh, locally sourced ingredients and often incorporates native Australian ingredients into her dishes.",
-        "likes": 8000,
+        "likes": 741,
         "recipes": [
             {
                 "recipe_id": "ch003_r001",
                 "img1" : "https://i.ibb.co/wcNM09k/3-1.webp",
+                "rating": "4.5",
                 "recipe_name": "Lamb and vegetable tagine",
                 "ingredients": [                   
                         "1 lb lamb shoulder",
@@ -119,6 +126,7 @@
             {
                 "recipe_id": "ch003_r002",
                 "img2" : "https://i.ibb.co/nCmSzqn/3-2.jpg",
+                "rating": "4",
                 "recipe_name": "Grilled barramundi with lemon and herbs",
                 "ingredients": [
                     "2 barramundi fillets", "1 lemon", "1 tbsp chopped fresh herbs (such as parsley, thyme, or oregano)", "salt and pepper", "1 tsp ground wattleseed"
@@ -128,6 +136,7 @@
             {
                 "recipe_id": "ch003_r003",
                 "img3" : "https://i.ibb.co/fdqRrpd/3-3.jpg",
+                "rating": "4",
                 "recipe_name": "Wattleseed and macadamia nut cake",
                 "ingredients": [
                     "2 cups all-purpose flour", "2 tsp baking powder", "1 tsp ground wattleseed", "1 cup macadamia nuts", "1 cup sugar", "1 cup milk", "2 eggs", "1/2 cup vegetable oil"
@@ -143,11 +152,12 @@
         "years_of_experience": 25,
         "number_of_recipes": 150,
         "short_bio": "Curtis Stone is an Australian celebrity chef, television personality, and author. He has hosted numerous cooking shows, including 'Take Home Chef', 'Top Chef Masters', and 'Around the World in 80 Plates'. Curtis is known for his simple and seasonal approach to cooking, and his passion for using fresh ingredients.",
-        "likes": 18000,
+        "likes": 489,
         "recipes": [
             {
                 "recipe_id": "ch004_r001",
                 "img1" : "https://i.ibb.co/kBY1nxw/4-1.jpg",
+                "rating": "4",
                 "recipe_name": "Pork and mushroom stir-fry",
                 "ingredients": [
                     "1 lb pork tenderloin", "1/2 lb mushrooms", "1 red bell pepper", "2 cloves of garlic", "1 inch piece of ginger", "2 tbsp soy sauce", "1 tbsp oyster sauce", "1 tsp cornstarch", "2 tbsp vegetable oil"
@@ -157,6 +167,7 @@
             {
                 "recipe_id": "ch004_r002",
                 "img2" : "https://i.ibb.co/K2mYb08/4-2.jpg",
+                "rating": "4",
                 "recipe_name": "Pan-seared salmon with avocado salsa",
                 "ingredients": [
                     "4 salmon fillets", "1 avocado", "1 tomato", "1/4 red onion", "2 tbsp chopped fresh cilantro", "1 tbsp lime juice", "salt and pepper", "2 tbsp olive oil"
@@ -166,6 +177,7 @@
             {
                 "recipe_id": "ch004_r003",
                 "img3" : "https://i.ibb.co/S5mmbyw/4-3.jpg",
+                "rating": "4.5",
                 "recipe_name": "Lemon and thyme roasted chicken",
                 "ingredients": [
                     "1 whole chicken", "1 lemon", "4 sprigs of fresh thyme", "4 cloves of garlic", "2 tbsp olive oil", "salt and pepper"
@@ -181,11 +193,12 @@
         "years_of_experience": 40,
         "number_of_recipes": 350,
         "short_bio": "Maggie Beer is an Australian chef, food author, and television personality. She is known for her focus on seasonal and local ingredients, and for her signature product, verjuice. Maggie has written many cookbooks and hosted several television shows, including 'The Cook and the Chef'. She is also a passionate advocate for regional Australian food and wine.",
-        "likes": 25000,
+        "likes": 995,
         "recipes": [
             {
                 "recipe_id": "ch005_r001",
                 "img1" : "https://i.ibb.co/8XfT345/5-1.jpg",
+                "rating": "4.5",
                 "recipe_name": "Roast chicken with verjuice and rosemary",
                 "ingredients": [
                     "1 whole chicken", "1/2 cup verjuice", "2 sprigs of fresh rosemary", "2 cloves of garlic", "2 tbsp olive oil", "salt and pepper"
@@ -195,6 +208,7 @@
             {
                 "recipe_id": "ch005_r002",
                 "img2" : "https://i.ibb.co/2hSr1N5/5-2.jpg",
+                "rating": "5",
                 "recipe_name": "Summer fruit pudding",
                 "ingredients": [
                     "1 lb mixed summer berries (raspberries, strawberries, blackberries, blueberries)", "1/2 cup sugar", "8-10 slices of white bread", "1/2 cup cream"
@@ -204,6 +218,7 @@
             {
                 "recipe_id": "ch005_r003",
                 "img3" : "https://i.ibb.co/ScP4CYj/5-3.webp",
+                "rating": "5",
                 "recipe_name": "Veal saltimbocca with sage and prosciutto",
                 "ingredients": [
                     "4 veal cutlets", "8 sage leaves", "4 slices of prosciutto", "1/2 cup flour", "1/2 cup dry white wine", "2 tbsp butter", "2 tbsp olive oil", "salt and pepper"
@@ -219,11 +234,12 @@
         "years_of_experience": 30,
         "number_of_recipes": 150,
         "short_bio": "Peter Gilmore is an Australian chef and restaurateur, known for his innovative and artistic approach to food. He has been the executive chef of Quay Restaurant in Sydney since 2001, where he has led the restaurant to be consistently ranked as one of the best in Australia and the world. Peter is also a published author, with two cookbooks showcasing his culinary philosophy and signature dishes.",
-        "likes": 11000,
+        "likes": 879,
         "recipes": [
             {
                 "recipe_id": "ch006_r001",
                 "img1" : "https://i.ibb.co/88V6wF4/6-1.jpg",
+                "rating": "4.5",
                 "recipe_name": "Marron with kelp butter and fermented shiitake",
                 "ingredients": [
                     "2 live marron", "100g unsalted butter", "2 sheets of dried kelp", "50g fermented shiitake mushrooms", "1 tbsp soy sauce", "1 tsp mirin", "1/2 tsp brown sugar", "salt"
@@ -233,6 +249,7 @@
             {
                 "recipe_id": "ch006_r002",
                 "img2" : "https://i.ibb.co/LZwf3Pz/6-2.webp",
+                "rating": "4.5",
                 "recipe_name": "Snow egg",
                 "ingredients": [
                     "4 egg whites", "250g caster sugar", "500ml milk", "1 vanilla bean", "1/2 cup lemon myrtle leaves", "2 gelatine leaves", "500ml liquid nitrogen"
@@ -242,6 +259,7 @@
             {
                 "recipe_id": "ch006_r003",
                 "img3" : "https://i.ibb.co/v1cjYwn/6-3.webp",
+                "rating": "4",
                 "recipe_name": "Slow cooked beef short rib with beetroot and blackberry",
                 "ingredients": [
                     "2 beef short ribs", "2 medium-sized beetroot", "1 cup fresh blackberries", "1/4 cup balsamic vinegar", "2 tbsp honey", "1 cup beef stock", "1 sprig of rosemary", "2 cloves of garlic", "2 tbsp olive oil", "salt and pepper"
