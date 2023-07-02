@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.ibb.co/vc09P9Q/Grilled-Prawns.jpg",
+        "season": "Summer Special",
+        "name": "Grilled Prawns",
+        "description": "Experience the taste of summer with these succulent grilled prawns, perfectly capturing the essence of warm sunshine and refreshing sea breezes."
+    },
+    {
+        "id": "2",
+        "image": "https://i.ibb.co/fCr81S8/Roasted-Pumpkin-Salad.jpg",
+        "season": "Autumn Special",
+        "name": "Roasted Pumpkin Salad",
+        "description": "Savor the flavors of autumn with this delightful roasted pumpkin salad, combining earthy roasted pumpkin with crisp greens and a touch of warmth that mirrors the cozy ambiance of falling leaves."
+    },
+    {
+        "id": "3",
+        "image": "https://i.ibb.co/CbNxmgJ/Pea-and-Ham-Soup.jpg",
+        "season": "Winter Special",
+        "name": "Pea and Ham Soup",
+        "description": "Embrace the comforting embrace of winter with this hearty pea and ham soup. Warm your soul with its rich flavors, reminiscent of crackling fireplaces and frosty landscapes."
+    },
+    {
+        "id": "4",
+        "image": "https://i.ibb.co/Tvjx8VC/Asparagus-Risotto.jpg",
+        "season": "Spring Special",
+        "name": "Asparagus Risotto",
+        "description": "Welcome the vibrant spirit of spring with this delightful asparagus risotto. Its fresh and vibrant flavors reflect the rejuvenation of nature, capturing the essence of blooming flowers and sunny days."
+    }
+]

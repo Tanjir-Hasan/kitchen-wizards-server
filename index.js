@@ -5,6 +5,8 @@ const port = process.env.port || 5000;
 app.use(cors());
 
 const data = require('./data/data.json');
+const seasonalRecipe = require('./data/seasonalRecipe.json');
+const toolsAndGadgets = require('./data/toolsAndGadgets.json');
 
 app.get('/', (req, res) => {
   res.send('kitten is on');
@@ -12,6 +14,14 @@ app.get('/', (req, res) => {
 
 app.get('/data', (req, res) => {
     res.send(data);
+});
+
+app.get('/seasonalRecipe', (req, res) => {
+    res.send(seasonalRecipe);
+});
+
+app.get('/toolsAndGadgets', (req, res) => {
+    res.send(toolsAndGadgets);
 });
 
 app.get('/data/:id', (req, res) => {

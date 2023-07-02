@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Chef's Knife",
+        "description": "A versatile and essential tool for chopping, slicing, and dicing ingredients.",
+        "image": "https://i.ibb.co/10M05kn/Chef-s-Knife.jpg"
+    },
+    {
+        "name": "Cutting Board",
+        "description": "Provides a sturdy and hygienic surface for cutting and chopping ingredients.",
+        "image": "https://i.ibb.co/4TcJsZp/Cutting-Board.jpg"
+    },
+    {
+        "name": "Mixing Bowls",
+        "description": "Used for mixing ingredients, marinating, and storing food.",
+        "image": "https://i.ibb.co/gFQbvRB/Mixing-Bowls.jpg"
+    },
+    {
+        "name": "Measuring Cups and Spoons",
+        "description": "Essential for precise measurement of dry and liquid ingredients in recipes.",
+        "image": "https://i.ibb.co/thtDqBR/Measuring-Cups-and-Spoons.jpg"
+    },
+    {
+        "name": "Blender",
+        "description": "Ideal for blending, pureeing, and making smoothies, sauces, and soups.",
+        "image": "https://i.ibb.co/C9ddSG3/Blender.jpg"
+    },
+    {
+        "name": "Food Processor",
+        "description": "Great for chopping, shredding, and pureeing ingredients quickly and efficiently.",
+        "image": "https://i.ibb.co/r5xG26q/Food-Processor.jpg"
+    },
+    {
+        "name": "Stand Mixer",
+        "description": "Perfect for mixing batter, dough, and whipping cream with ease.",
+        "image": "https://i.ibb.co/0MTsMTY/Stand-Mixer.jpg"
+    },
+    {
+        "name": "Immersion Blender",
+        "description": "Handheld blender for pureeing soups, sauces, and making smoothies directly in the pot.",
+        "image": "https://i.ibb.co/WsmskXd/Immersion-Blender.jpg"
+    },
+    {
+        "name": "Cast Iron Skillet",
+        "description": "Provides even heat distribution and excellent heat retention for searing, frying, and baking.",
+        "image": "https://i.ibb.co/NxXTcRh/Cast-Iron-Skillet.jpg"
+    },
+    {
+        "name": "Kitchen Scale",
+        "description": "Ensures precise measurement of ingredients by weight, crucial for baking and portion control.",
+        "image": "https://i.ibb.co/VY3HVg3/Kitchen-Scale.jpg"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
